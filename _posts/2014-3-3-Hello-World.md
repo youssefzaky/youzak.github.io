@@ -6,6 +6,3 @@ title: First Post
 bla bla bla 
 
 bla bla bla
-
-
-
