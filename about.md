@@ -8,4 +8,4 @@ Deep Learning Research Engineer
 
 ### Contact me
 
-[youssef@osaro.com](mailto:youssef@osaro.com)
+[youssef@osaro.com](mailto:youssefzaky@gmail.com)
