@@ -4,8 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Deep Learning Research Engineer
+Research Engineer with expertise in deep learning, computer vision and robotics.
+https://www.linkedin.com/in/youssef-zaky-955b17124/ 
 
 ### Contact me
 
-[youssef@osaro.com](mailto:youssefzaky@gmail.com)
+[youssefzaky@gmail.com](mailto:youssefzaky@gmail.com)
