@@ -20,9 +20,9 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: youzak
+  github: youssefzaky
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/youssef-zaky-955b17124/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
@@ -40,7 +40,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: youzak.github.io
+url: youssefzaky.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
@@ -57,7 +57,7 @@ permalink: /:title/
 # The release of Jekyll Now that you're using
 version: v1.2.0
 
-# Jekyll 3 now only supports Kramdown for Markdown
+# Jekyll 3 now only supports Kramdown for 
 kramdown:
   # Use GitHub flavored markdown, including triple backtick fenced code blocks
   input: GFM
